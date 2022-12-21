@@ -1,2 +1,2 @@
 # Firstspringapp
-Первое RESt приложение на spring java
+Первое REST приложение на spring java
