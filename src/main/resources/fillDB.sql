@@ -1,0 +1,1 @@
+insert into person_form (firstname, lastname, age, "start", "procent", des_score)values ('Vladislav', 'Naumov', 25, 3.5,'A')
