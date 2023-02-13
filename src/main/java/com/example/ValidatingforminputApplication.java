@@ -12,6 +12,7 @@ public class ValidatingforminputApplication {
 	public static void main(String[] args) throws IllegalArgumentException {
 
 		SpringApplication.run(ValidatingforminputApplication.class, args);
+		log.info("Application has started on port = 8080");
 	}
 
 

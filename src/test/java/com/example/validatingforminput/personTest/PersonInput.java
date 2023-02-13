@@ -1,7 +1,7 @@
 package com.example.validatingforminput.personTest;
 
-import com.example.person.PersonController;
-import com.example.person.PersonForm;
+import com.example.controller.PersonController;
+import com.example.model.PersonForm;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
